@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+   <item
+    android:id="@+id/nav_home"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:title="Home"/>
+
+    <item
+        android:id="@+id/add_contact"
+        android:icon="@drawable/add_contact"
+        android:title="Add Emergency Contact"/>
+    <item
+        android:id="@+id/sos"
+        android:icon="@drawable/sos1"
+        android:title="SOS"/>
+    <item
+        android:id="@+id/location_track"
+        android:icon="@drawable/locationtrack"
+        android:title="Location Tracking"/>
+    <item
+        android:id="@+id/fake_call"
+        android:icon="@drawable/fakecall"
+        android:title="Fake Call"/>
+    <item
+        android:id="@+id/safe_unsafe"
+        android:icon="@drawable/ic_baseline_location_searching_24"
+        android:title="Safe And Unsafe Location"/>
+
+    <item
+        android:id="@+id/reached_msg"
+        android:icon="@drawable/locationtrack"
+        android:title="Destination Reached Msg"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_baseline_home_24"
+                android:title="Logout"/>
+        </menu>
+    </item>
+
+
+</menu>

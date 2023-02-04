@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481664051188",
+    "project_id": "nari-app1",
+    "storage_bucket": "nari-app1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481664051188:android:6291565e6b4c18d495bba1",
+        "android_client_info": {
+          "package_name": "com.example.nari_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481664051188-js5nqqn9805jb3vtri3brjlftihjg8go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmelwb-116VjevEBqp0QQ17dhCSvWYp_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481664051188-js5nqqn9805jb3vtri3brjlftihjg8go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

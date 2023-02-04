@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nari-app</string>
+    <string name="don_t_have_an_account">Don\'t Have an account?</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="Registration">Registration</string>
+    <string name="forget">Forget Password?</string>
+    <string name="register_mobile_number">Register Mobile Number</string>
+    <string name="email_id">Email-Id</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="power_button">POWER BUTTON SOS</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="add_emergency_contact_number">Add Emergency Contact Number</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="sendmsg">Sorry Message can\'t Send..</string>
+    <string name="locationtrack">Location Tracking</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
